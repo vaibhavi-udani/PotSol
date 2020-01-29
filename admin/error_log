@@ -1,0 +1,10 @@
+[03-Sep-2018 17:27:11 Asia/Kolkata] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/leaderex/public_html/sameen/PM/admin/pgViewQueryDetails.php on line 6
+[03-Sep-2018 17:27:11 Asia/Kolkata] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/leaderex/public_html/sameen/PM/admin/pgViewQueryDetails.php on line 6
+[03-Sep-2018 17:27:11 Asia/Kolkata] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leaderex/public_html/sameen/PM/admin/pgViewQueryDetails.php on line 6
+[03-Sep-2018 17:27:11 Asia/Kolkata] PHP Fatal error:  Class 'DB_connect' not found in /home/leaderex/public_html/sameen/PM/admin/pgViewQueryDetails.php on line 7
+[03-Sep-2018 17:27:15 Asia/Kolkata] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/leaderex/public_html/sameen/PM/admin/pgViewQueryDetails.php on line 6
+[03-Sep-2018 17:27:15 Asia/Kolkata] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/leaderex/public_html/sameen/PM/admin/pgViewQueryDetails.php on line 6
+[03-Sep-2018 17:27:15 Asia/Kolkata] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leaderex/public_html/sameen/PM/admin/pgViewQueryDetails.php on line 6
+[03-Sep-2018 17:27:15 Asia/Kolkata] PHP Fatal error:  Class 'DB_connect' not found in /home/leaderex/public_html/sameen/PM/admin/pgViewQueryDetails.php on line 7
+[20-Sep-2018 16:16:04 Asia/Kolkata] PHP Warning:  move_uploaded_file(../upload/20180920161604unnamed.png): failed to open stream: No such file or directory in /home/leaderex/public_html/sameen/PM/admin/updateQueryStatus.php on line 15
+[20-Sep-2018 16:16:04 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiqdQqX' to '../upload/20180920161604unnamed.png' in /home/leaderex/public_html/sameen/PM/admin/updateQueryStatus.php on line 15
